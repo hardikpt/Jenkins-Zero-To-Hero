@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                sh 'git clone https://github.com/your-username/your-repo.git'
+                sh 'git clone https://github.com/hardikpt/https://github.com/hardikpt/AndroidStudioWebApp.git'
             }
         }
         stage('Test') {
